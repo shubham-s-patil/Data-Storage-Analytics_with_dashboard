@@ -1,0 +1,21 @@
+[
+  { "id": "1", "block1": "Chongrang BAC", "tag": "Geyzing" },
+  { "id": "2", "block1": "Chumbung-Chakung BAC", "tag": "Geyzing" },
+  { "id": "3", "block1": "Chungthang BAC", "tag": "Geyzing" },
+  { "id": "4", "block1": "Daramdin BAC", "tag": "Geyzing" },
+  { "id": "5", "block1": "Dentam BAC", "tag": "Geyzing" },
+  { "id": "6", "block1": "Duga BAC Duga", "tag": "Geyzing" },
+  { "id": "7", "block1": "Gangtok BAC", "tag": "Gangtok" },
+  { "id": "8", "block1": "Gyalshing BAC", "tag": "Gangtok" },
+  { "id": "9", "block1": "Hee Martam BAC", "tag": "Gangtok" },
+  { "id": "11", "block1": "Kabi Tingda BAC", "tag": "Gangtok" },
+  { "id": "12", "block1": "Kaluk BAC", "tag": "Gangtok" },
+  { "id": "13", "block1": "Khamdong BAC", "tag": "Gangtok" },
+  { "id": "14", "block1": "Mangalbarey BAC", "tag": "Mangan" },
+  { "id": "15", "block1": "Mangan BAC", "tag": "Mangan" },
+  { "id": "16", "block1": "Martam BAC", "tag": "Mangan" },
+  {"id": "17", "block1": "Namchi BAC", "tag": "Namchi"},
+  { "id": "18", "block1": "Namthang BAC", "tag": "Namchi" },
+  { "id": "19", "block1": "Nandok BAC", "tag": "Namchi" },
+  { "id": "20", "block1": "Pakyong BAC", "tag": "Namchi" }
+]
